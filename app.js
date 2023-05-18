@@ -29,7 +29,7 @@ function myApp(){
         navBar.style.background = "white"
         home.style.color = "black"
         title.style.color = "black"
-        title.textContent = "Switch To Dack Mode"
+        title.textContent = "Switch To Dark Mode"
         iisChecked()
     }
 }
